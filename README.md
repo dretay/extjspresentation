@@ -1,3 +1,3 @@
 ExtJS Javascript Tutorial
 =====
-This is a tutorial on the ExtJS javascript framework given in 2011 and covers Ext 3. 
+A presentation I gave in 2011 giving a functional overview of ExtJS3 and showing how to integrate the framework into SEAM WebRemoting.
